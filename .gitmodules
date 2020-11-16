@@ -1,3 +1,6 @@
 [submodule "samplepic2"]
 	path = samplepic2
 	url = https://github.com/c15pati/samplepic2.git
+[submodule "samplepic3"]
+	path = samplepic3
+	url = https://github.com/c15pati/samplepic3.git
